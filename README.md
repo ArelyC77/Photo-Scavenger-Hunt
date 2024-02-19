@@ -2,7 +2,7 @@
 
 Submitted by: **Arely Correa-Perez**
 
-**The All Blue** is an app that maps a users photo selection to the location it was taken at for it to match their response to the questions.
+**The All Blue** is an app that requires the user to attach photos based on the task. After attaching the photo to a task, the app shows the user where that photo was taken in a map.
 
 Time spent: **4** hours spent in total
 
