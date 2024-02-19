@@ -36,11 +36,11 @@ The following **additional** features are implemented:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Changing the circle color outline to red was a bit challenging at first, but I later figured that I had to fix the code for the inline if-statement by changing the else to systemRed.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Arely Correa-Perez]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
