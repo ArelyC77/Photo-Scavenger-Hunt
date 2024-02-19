@@ -2,7 +2,7 @@
 
 Submitted by: **Arely Correa-Perez**
 
-**The All Blue** is an app that ... [TODO] 
+**The All Blue** is an app that maps a users photo selection to the location it was taken at for it to match their response to the questions.
 
 Time spent: **4** hours spent in total
 
